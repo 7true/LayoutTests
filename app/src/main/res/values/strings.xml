@@ -1,3 +1,12 @@
 <resources>
     <string name="app_name">LayoutTests</string>
+    <string name="button_click_me">Click me</string>
+    <string name="new_button_text">Below</string>
+    <string name="to">To</string>
+    <string name="send">Send</string>
+    <string name="message">Message</string>
+    <string name="textview">Text</string>
+    <string name="click_me">Click me</string>
+    <string name="edit">Type here</string>
+    <string name="to_hint">Enter email address</string>
 </resources>
