@@ -9,4 +9,11 @@
     <string name="click_me">Click me</string>
     <string name="edit">Type here</string>
     <string name="to_hint">Enter email address</string>
+    <string name="title">Thanks for choosing out awesomeblend tea. How do you want it serving?</string>
+    <string name="temp">Temperature</string>
+    <string name="on">On</string>
+    <string name="off">Off</string>
+    <string name="milk">Milk</string>
+    <string name="sugar">Sugar</string>
+    <string name="lemon">Lemon</string>
 </resources>
